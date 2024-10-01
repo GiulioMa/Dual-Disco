@@ -1,0 +1,11 @@
+*.pkl
+*.
+*.zip
+*.txt
+*.pdf
+*.pth
+*.parquet
+Data/
+Raw_data/
+.ipynb_checkpoints/
+__pycache__/
